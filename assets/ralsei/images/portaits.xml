@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portaits.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="boyfriend instance 10000" x="215" y="215" width="215" height="215"/>
+	<SubTexture name="kris instance 10000" x="215" y="0" width="215" height="215"/>
+	<SubTexture name="ralsei instance 10000" x="0" y="215" width="215" height="215"/>
+	<SubTexture name="susie instance 10000" x="0" y="0" width="215" height="215"/>
+</TextureAtlas>
